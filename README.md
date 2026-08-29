@@ -42,3 +42,4 @@ The system is designed for educational and training environments to enable train
 The entity-relationship diagram illustrates the structural layout and relational integrity across branches, users, sessions, and attendance modules:
 
 ```text
+https://github.com/Laila-MIS/Self-Attendance_System/blob/main/ERD_Self-Attendance_System.pdf
