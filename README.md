@@ -39,7 +39,10 @@ The system is designed for educational and training environments to enable train
 ---
 
 ## 📊 Database Schema (ERD)
-The entity-relationship diagram illustrates the structural layout and relational integrity across branches, users, sessions, and attendance modules:
+The entity-relationship diagram illustrates the structural layout and relational integrity across branches, users, sessions, and attendance modules.
 
-```text
-https://github.com/Laila-MIS/Self-Attendance_System/blob/main/ERD_Self-Attendance_System.pdf
+---
+
+## 📂 Repository Files & Documentation
+* [View Database Schema Script (SQL)](https://github.com/Laila-MIS/Self-Attendance_System/blob/main/Self-Attendance_Schema.sql)
+* [View the ERD Diagram PDF](https://github.com/Laila-MIS/Self-Attendance_System/blob/main/ERD_Self_Attendance_System.pdf)
