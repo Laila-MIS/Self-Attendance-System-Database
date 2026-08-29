@@ -45,4 +45,4 @@ The entity-relationship diagram illustrates the structural layout and relational
 
 ## 📂 Repository Files & Documentation
 * [View Database Schema Script (SQL)](https://github.com/Laila-MIS/Self-Attendance_System/blob/main/Self-Attendance_Schema.sql)
-* [View the ERD Diagram PDF](https://github.com/Laila-MIS/Self-Attendance_System/blob/main/ERD_Self_Attendance_System.pdf)
+* [View the ERD Diagram PDF](https://github.com/Laila-MIS/Self-Attendance_System/blob/main/ERD_Self-Attendance_System.pdf)
