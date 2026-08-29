@@ -1,4 +1,4 @@
-# Self-Attendance & Student Management System - Database Architecture
+# Self-Attendance & Management System - Database Architecture
 
 An advanced relational database developed using **MySQL** for a student and trainee self-attendance tracking system, featuring robust data engineering, geo-verification, and secure role-based access control.
 
