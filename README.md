@@ -1,10 +1,12 @@
-# Self-Attendance & Management System - Database Architecture
+<img width="695" height="256" alt="image" src="https://github.com/user-attachments/assets/ebeea90b-c61e-47e3-ba5d-d43d74470037" /># Self-Attendance & Management System - Database Architecture
 
 An advanced relational database developed using **MySQL** for a student and trainee self-attendance tracking system, featuring robust data engineering, geo-verification, and secure role-based access control.
 
 ---
 
 ## 🚀 Project Overview
+**End-to-End Database Lifecycle:** Designed the complete relational schema from scratch—starting from business requirements analysis and ERD modeling, to structural normalization, constraint definition, and SQL implementation.
+
 The system is designed for educational and training environments to enable trainees to record their attendance and departure autonomously. It ensures high reliability, strict operational rule-checking, and a scalable foundation capable of integrating seamlessly with other enterprise systems.
 
 ---
